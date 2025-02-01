@@ -15,7 +15,7 @@ public partial class Form1 : Form
     private async void button1_Click(object sender, EventArgs e)
     {
         string city = textBox1.Text; // User input
-        string apiKey = "e6eb66189d2ea80b778fcc0c9942a02e"; // Replace with your OpenWeatherMap API key
+        string apiKey = ""; // Replace with your OpenWeatherMap API key
         string url = $"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={apiKey}&units=metric";
 
         using HttpClient client = new HttpClient();
