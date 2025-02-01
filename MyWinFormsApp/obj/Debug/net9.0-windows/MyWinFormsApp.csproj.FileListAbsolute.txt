@@ -1,0 +1,28 @@
+E:\test\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.exe
+E:\test\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.deps.json
+E:\test\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.runtimeconfig.json
+E:\test\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.dll
+E:\test\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.pdb
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfo.cs
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.dll
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\refint\MyWinFormsApp.dll
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.pdb
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.genruntimeconfig.cache
+E:\test\MyWinFormsApp\obj\Debug\net9.0-windows\ref\MyWinFormsApp.dll
+E:\Projet C#\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.exe
+E:\Projet C#\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.deps.json
+E:\Projet C#\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.runtimeconfig.json
+E:\Projet C#\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.dll
+E:\Projet C#\MyWinFormsApp\bin\Debug\net9.0-windows\MyWinFormsApp.pdb
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfo.cs
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.dll
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\refint\MyWinFormsApp.dll
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.pdb
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.genruntimeconfig.cache
+E:\Projet C#\MyWinFormsApp\obj\Debug\net9.0-windows\ref\MyWinFormsApp.dll
